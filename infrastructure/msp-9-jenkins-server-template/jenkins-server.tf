@@ -6,8 +6,8 @@
 
 provider "aws" {
   region = var.region
-  // access_key = ""
-  // secret_key = ""
+  access_key = "AKIAU6GD2462E6MPZKRU"
+  secret_key = "YbjggWmsC3riSumszAjT+jedo0G7NZfPdv91Y5Zk"
   //  If you have entered your credentials in AWS CLI before, you do not need to use these arguments.
 }
 
